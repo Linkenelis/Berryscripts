@@ -1,3 +1,3 @@
 # Berryscripts
-Tasmota Berry scripts for personal use
-maybe some inspiration for others
+Tasmota Berry scripts for personal use.
+ Maybe some inspiration for others
